@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AbdullahMazher1/deploye_protfolio.git/static/css/main.60f0f84d.css",
-    "main.js": "/AbdullahMazher1/deploye_protfolio.git/static/js/main.45322c10.js",
-    "static/js/453.ed3810f9.chunk.js": "/AbdullahMazher1/deploye_protfolio.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/AbdullahMazher1/deploye_protfolio.git/index.html",
-    "main.60f0f84d.css.map": "/AbdullahMazher1/deploye_protfolio.git/static/css/main.60f0f84d.css.map",
-    "main.45322c10.js.map": "/AbdullahMazher1/deploye_protfolio.git/static/js/main.45322c10.js.map",
-    "453.ed3810f9.chunk.js.map": "/AbdullahMazher1/deploye_protfolio.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "./static/css/main.60f0f84d.css",
+    "main.js": "./static/js/main.780c699a.js",
+    "static/js/453.ed3810f9.chunk.js": "./static/js/453.ed3810f9.chunk.js",
+    "index.html": "./index.html",
+    "main.60f0f84d.css.map": "./static/css/main.60f0f84d.css.map",
+    "main.780c699a.js.map": "./static/js/main.780c699a.js.map",
+    "453.ed3810f9.chunk.js.map": "./static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f0f84d.css",
-    "static/js/main.45322c10.js"
+    "static/js/main.780c699a.js"
   ]
 }
